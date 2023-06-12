@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "goodday",
+    "name": "Good Day!",
     "slug": "goodday",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "dev_victor.good_day"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d57b7897-7fd7-40b9-9bee-bc215ba28983"
+      }
     }
   }
 }
