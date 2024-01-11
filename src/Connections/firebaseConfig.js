@@ -6,13 +6,7 @@ import { getStorage, ref as storageref, uploadBytes, getDownloadURL } from 'fire
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAHZ2tMAGTJj2nhMZKSntC4Rvus_Ja5N0Y",
-  authDomain: "gooddayapp-e95ef.firebaseapp.com",
-  projectId: "gooddayapp-e95ef",
-  storageBucket: "gooddayapp-e95ef.appspot.com",
-  messagingSenderId: "9754535420",
-  appId: "1:9754535420:web:88b46adce819db71f37e79",
-  measurementId: "G-ZR6BMZ2ZJQ"
+
 };
 
 const app = initializeApp(firebaseConfig);
