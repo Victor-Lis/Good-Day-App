@@ -5,6 +5,12 @@ Esse é um App simples que fiz para um trabalho da matéria de Ética, na qual d
 
 É um projeto antigo e que talvez em algum momento eu faça algumas alterações, embora não seja exatamente minha intenção.
 
+# Desafios
+
+- Cumprir os objetivos traçados pela professora;
+- Fazer a ligação com o Firebase;
+- Criar o sistema do game.
+
 ## Screenshots
 
 ### SignIn
