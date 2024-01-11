@@ -11,15 +11,15 @@ Esse é um App simples que fiz para um trabalho da matéria de Ética, na qual d
 - Fazer a ligação com o Firebase;
 - Criar o sistema do game.
 
-## Screenshots
+# Screenshots
 
-### SignIn
+## SignIn
 
 ![](https://github.com/Victor-Lis/Good-Day-App/blob/master/src/ProjectImages/Login.jpg)
 
 ![](https://github.com/Victor-Lis/Good-Day-App/blob/master/src/ProjectImages/Login%20Loading.jpg)
 
-### Home 
+## Home 
 
 ![](https://github.com/Victor-Lis/Good-Day-App/blob/master/src/ProjectImages/Home1.jpg)
 
@@ -27,7 +27,7 @@ Esse é um App simples que fiz para um trabalho da matéria de Ética, na qual d
 
 ![](https://github.com/Victor-Lis/Good-Day-App/blob/master/src/ProjectImages/Home3.jpg)
 
-### Pet
+## Pet
 
 ![](https://github.com/Victor-Lis/Good-Day-App/blob/master/src/ProjectImages/Pet1.jpg)
 
@@ -35,6 +35,6 @@ Esse é um App simples que fiz para um trabalho da matéria de Ética, na qual d
 
 ![](https://github.com/Victor-Lis/Good-Day-App/blob/master/src/ProjectImages/Pet3.jpg)
 
-## Autores
+# Autores
 
 - [@Victor-Lis](https://github.com/Victor-Lis)
